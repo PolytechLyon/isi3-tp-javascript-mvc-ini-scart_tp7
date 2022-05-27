@@ -3,7 +3,7 @@
 
 Nom/Prénom: `Scart Gaëtan`
 
-Lien du codesandbox: `.......`
+Lien du codesandbox: `https://codesandbox.io/s/sweet-star-e43pm3`
 
 > Pour générer un codesandbox associé à votre code, [suivre cette doc](https://codesandbox.io/docs/importing#import-from-github).
 
@@ -61,6 +61,7 @@ L'objet _Model_ n'a pas de lien avec `vue` pourtant grâce à la `liste d'observ
 
 2. Insérer ici un UML montrant le pattern Observer/Observable lié aux objets de ce TP.
 
+![alt text](/schema/Observeur.drawio.png)
 
 ## :warning: À rendre
 
