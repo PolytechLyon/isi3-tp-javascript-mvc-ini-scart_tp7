@@ -61,7 +61,7 @@ L'objet _Model_ n'a pas de lien avec `vue` pourtant grâce à la `liste d'observ
 
 2. Insérer ici un UML montrant le pattern Observer/Observable lié aux objets de ce TP.
 
-![alt text](/schema/Observeur.drawio.png)
+![alt text](/schemas/Observeur.drawio.png)
 
 ## :warning: À rendre
 
