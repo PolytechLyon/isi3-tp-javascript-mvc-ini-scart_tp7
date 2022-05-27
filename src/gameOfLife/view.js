@@ -1,4 +1,4 @@
-import { GAME_SIZE, CELL_SIZE } from "./constants.js";
+  import { GAME_SIZE, CELL_SIZE } from "./constants.js";
 
 const canvas = document.createElement("canvas");
 const context = canvas.getContext("2d");
